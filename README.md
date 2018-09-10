@@ -1,3 +1,3 @@
 # note
-
-created by tyxul time 20180612
+此存储库为学习以及工作笔记
+创建于20180612
